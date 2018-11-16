@@ -1,0 +1,42 @@
+{
+  "name": "instagram-following",
+  "version": "1.0.0",
+  "description": "Get the number of accounts followed by an account",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abranhe/instagram-following.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+		"insagram",
+		"api",
+		"following",
+		"data",
+		"details",
+		"information",
+		"insta"
+	],
+  "author": {
+    "name": "Carlos Abraham",
+    "email": "abraham@abranhe.com",
+    "web": "abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/instagram-following/issues"
+  },
+  "homepage": "https://projects.abranhe.com/instagram-following",
+  "dependencies": {
+    "got": "^9.3.2"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "xo": "^0.23.0"
+  }
+}
