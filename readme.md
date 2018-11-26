@@ -7,7 +7,7 @@
 	<br>
 	<br>
 	<a href="https://www.npmjs.com/package/instagram-following">
-	instagram-following</a>: Get the numbers of accounst followed by an Instagram user
+	instagram-following</a>: Get the numbers of accounts followed by an Instagram user
 </p>
 
 <p align="center">
